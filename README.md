@@ -7,4 +7,6 @@ SAGAR#4871
 
 Ziron.#6646
 
+Official Source Code Of Noise and Hammer Music Bot
+
 You Are Free To Use This Code As it Is An Open Source Project 
